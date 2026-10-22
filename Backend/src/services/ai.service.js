@@ -4,7 +4,7 @@ import * as z from "zod";
 import { searchInternet } from "./internet.service.js";
 
 const mistralModel = new ChatMistralAI({
-    model: "mistral-small-latest",
+    model: "apni api dal bhai ",
     apiKey: process.env.MISTRAL_API_KEY
 })
 
